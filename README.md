@@ -1,5 +1,7 @@
 # AstroImagePy
 
+AstroImagePy est un processeur d'images pour l'astrophotographie
+
 ## Prérequis
 - Installer [Anaconda](https://www.anaconda.com/download/) (v5.3+) ou [Miniconda](https://conda.io/miniconda.html) (v4.5+)
 
