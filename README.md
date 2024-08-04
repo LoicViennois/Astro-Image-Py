@@ -24,4 +24,4 @@ Les **Flats** permettent de corriger les défauts d'uniformité du capteur.
 Les **Offsets** permettent de corriger le bruit électronique du capteur.
 - **Images** : les images du ciel, prises avec les mêmes réglages.
 - **Darks** : images prises sans objectif, avec le capuchon de l'appareil, avec les mêmes réglages que pour les **Images**.<br>
-Les **Darks** permettent d'éliminuer le bruit thermique du capteur.
+Les **Darks** permettent d'éliminer le bruit thermique du capteur.
